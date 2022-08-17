@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle situs-judi-slot-gacor-resmi-terpercaya-no-lag",
+        "command": "situs-judi-slot-gacor-resmi-terpercaya-no-lag:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "situs-judi-slot-gacor-resmi-terpercaya-no-lag",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "situs-judi-slot-gacor-resmi-terpercaya-no-lag:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

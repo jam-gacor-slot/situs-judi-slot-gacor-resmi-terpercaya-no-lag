@@ -1,0 +1,23 @@
+{
+  "name": "situs-judi-slot-gacor-resmi-terpercaya-no-lag",
+  "main": "./lib/situs-judi-slot-gacor-resmi-terpercaya-no-lag",
+  "version": "0.0.0",
+  "description": "Daftar situs judi slot online paling gacor resmi terpercaya dengan no lag saat bermain di Restoslot4d.",
+  "keywords": [
+    "slot online",
+    "slot gacor",
+    "judi slot gacor",
+    "situs slot gacor",
+    "slot gacor resmi"
+  ],
+  "activationCommands": {
+    "atom-workspace": "situs-judi-slot-gacor-resmi-terpercaya-no-lag:toggle"
+  },
+  "repository": "https://github.com/atom/situs-judi-slot-gacor-resmi-terpercaya-no-lag",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
